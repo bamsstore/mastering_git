@@ -1,4 +1,6 @@
-Git Reade me!
+Git Read me!
 
-The following info is for IT 
+The following info is for IT.
+
+'This line line was added to test branching'
 
